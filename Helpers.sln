@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{2DCD350F-A174-4E4F-AE28-E493116CE6BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{F9B8C3F4-4F9F-46BA-BB04-929C48C63D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{7260E238-8C29-4B3A-BC53-E4FEE18A9736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7260E238-8C29-4B3A-BC53-E4FEE18A9736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7260E238-8C29-4B3A-BC53-E4FEE18A9736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7260E238-8C29-4B3A-BC53-E4FEE18A9736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7260E238-8C29-4B3A-BC53-E4FEE18A9736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7260E238-8C29-4B3A-BC53-E4FEE18A9736} = {F9B8C3F4-4F9F-46BA-BB04-929C48C63D9C}
+	EndGlobalSection
+EndGlobal
