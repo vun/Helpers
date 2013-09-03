@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Console
 {
-    class Program
+    class Configuration
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }

@@ -4,3 +4,6 @@ C:\workspace\Helpers\Helpers\Helpers\Console\bin\Debug\Console.pdb
 C:\workspace\Helpers\Helpers\Helpers\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
 C:\workspace\Helpers\Helpers\Helpers\Console\obj\Debug\Console.exe
 C:\workspace\Helpers\Helpers\Helpers\Console\obj\Debug\Console.pdb
+C:\workspace\tt\Helpers\Console\bin\Debug\Console.exe.config
+C:\workspace\tt\Helpers\Console\obj\Debug\Console.exe
+C:\workspace\tt\Helpers\Console\obj\Debug\Console.pdb
